@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = '34.101.76.212';
+$config['base_url'] = 'http://34.101.66.3/';
 
 /*
 |--------------------------------------------------------------------------
